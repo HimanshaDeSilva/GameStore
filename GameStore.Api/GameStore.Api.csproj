@@ -1,7 +1,8 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+<Project Sdk="Microsoft.NET.Sdk.Web"> <!-- Defines the project type as a web application -->
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
+    <!-- the project is targeting .NET 8.0.The runtime and libraries ,apis used will be from .NET 8. -->
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
